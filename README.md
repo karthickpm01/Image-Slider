@@ -1,2 +1,2 @@
 # Image-Slider
-Created Using HTML,CSS,and JAVASCRIPT
+Created Using HTML,CSS, AND JAVASCRIPT
